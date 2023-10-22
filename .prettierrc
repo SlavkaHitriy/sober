@@ -1,0 +1,9 @@
+{
+    "tabWidth": 4,
+    "singleQuote": true,
+    "max_line_length": 150,
+    "printWidth": 120,
+    "bracketSpacing": true,
+    "htmlWhitespaceSensitivity": "css",
+    "endOfLine": "auto"
+}

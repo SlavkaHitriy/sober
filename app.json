@@ -8,6 +8,20 @@
       "expo-router"
     ],
     "name": "sober",
-    "slug": "sober"
+    "slug": "sober",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a0a6102a-b9f8-4708-80cf-56af758ab193"
+      }
+    },
+    "android": {
+      "package": "com.slavkahitriy.sober"
+    },
+    "ios": {
+      "bundleIdentifier": "com.slavkahitriy.sober"
+    }
   }
 }
